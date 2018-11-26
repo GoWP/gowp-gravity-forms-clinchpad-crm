@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Gravity Forms ClinchPad CRM Add-On
+Plugin Name: GoWP Gravity Forms ClinchPad CRM Add-On
 Description: Integrate Gravity Forms with ClinchPad CRM
 Version: 1.0.0
 Author: GoWP
