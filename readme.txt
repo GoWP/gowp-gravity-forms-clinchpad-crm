@@ -2,7 +2,7 @@
 Contributors: karpstrucking
 Tags: gravityforms, clinchpad, crm
 Requires at least: 2.8
-Tested up to: 5.0
+Tested up to: 5.0.1
 Requires PHP: 5.6
 Stable tag: trunk
 
